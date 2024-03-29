@@ -1,5 +1,9 @@
 # RandomPixivPictureTool
 **RandomPixivPictureTool 是一个用于获取随机或指定画师的 Pixiv 图片并支持快捷保存到本地的工具。**
+- - -
+### 截图
+ ![程序截图](https://img2.imgtp.com/2024/03/30/nqo245i9.png)
+- - -
 > 主要功能
 > * [x] 获取随机图片： 通过调用 API 获取随机图片。
 > * [x] 指定画师图片： 根据提供的画师ID，获取获取该画师的图片。
